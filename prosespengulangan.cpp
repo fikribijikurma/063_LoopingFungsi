@@ -1,4 +1,4 @@
-#include <iostrenam>
+#include <iostream>
 using namespace std;
 
 int main()
@@ -11,7 +11,7 @@ int main()
         cout << i << " : " << "Fikri" << endl;
     }
 
-    for (i = 0; < 5; i++){
+    for (i = 0; i < 5; i++){
         cout << "Masukkan Nama = ";
         cin >> arr[i];
     }
